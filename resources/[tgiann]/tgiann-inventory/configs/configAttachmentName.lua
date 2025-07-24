@@ -1,0 +1,52 @@
+config.attachment.tintLabel = {
+  normal = {
+    ["tint_0"] = "Default/Black",
+    ["tint_1"] = "Green",
+    ["tint_2"] = "Gold",
+    ["tint_3"] = "Pink",
+    ["tint_4"] = "Army",
+    ["tint_5"] = "LSPD",
+    ["tint_6"] = "Orange",
+    ["tint_7"] = "Platinum",
+  },
+  mk2 = {
+    ["tint_0"] = "Classic Black",
+    ["tint_1"] = "Classic Gray",
+    ["tint_2"] = "Classic Two-Tone",
+    ["tint_3"] = "Classic White",
+    ["tint_4"] = "Classic Beige",
+    ["tint_5"] = "Classic Green",
+    ["tint_6"] = "Classic Blue",
+    ["tint_7"] = "Classic Earth",
+    ["tint_8"] = "Classic Brown & Black",
+    ["tint_9"] = "Red Contrast",
+    ["tint_10"] = "Blue Contrast",
+    ["tint_11"] = "Yellow Contrast",
+    ["tint_12"] = "Orange Contrast",
+    ["tint_13"] = "Bold Pink",
+    ["tint_14"] = "Bold Purple & Yellow",
+    ["tint_15"] = "Bold Orange",
+    ["tint_16"] = "Bold Green & Purple",
+    ["tint_17"] = "Bold Red Features",
+    ["tint_18"] = "Bold Green Features",
+    ["tint_19"] = "Bold Cyan Features",
+    ["tint_20"] = "Bold Yellow Features",
+    ["tint_21"] = "Bold Red & White",
+    ["tint_22"] = "Bold Blue & White",
+    ["tint_23"] = "Metallic Gold",
+    ["tint_24"] = "Metallic Platinum",
+    ["tint_25"] = "Metallic Gray & Lilac",
+    ["tint_26"] = "Metallic Purple & Lime",
+    ["tint_27"] = "Metallic Red",
+    ["tint_28"] = "Metallic Green",
+    ["tint_29"] = "Metallic Blue",
+    ["tint_30"] = "Metallic White & Aqua",
+    ["tint_31"] = "Metallic Orange & Yellow",
+    ["tint_32"] = "Mettalic Red and Yellow",
+  }
+}
+
+-- attachments names are set automatically but if you have an addon weapon or want to change the names of attachment you can add them here
+config.attachment.labels = {
+  --["COMPONENT_SNSPISTOL_MK2_CAMO_IND_01"] = "American Camo",
+}
